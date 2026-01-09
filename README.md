@@ -126,5 +126,4 @@ This ensemble approach enhances accuracy and generalization across different cro
 
 The **AI-Driven Crop Disease Prediction and Management System** aims to empower farmers with accessible, accurate, and cost-effective disease detection technology. By combining ensemble deep learning models with a user-friendly interface, the solution addresses real-world agricultural challenges and supports sustainable farming practices.
 
-Just tell me 👍
 
